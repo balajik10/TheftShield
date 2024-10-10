@@ -22,10 +22,5 @@ The model uses a combination of RGB and optical flow data to detect suspicious b
 - TensorFlow 2.x
 - OpenCV 4.x
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/shoplifting-detection.git
-   cd shoplifting-detection
 
  
